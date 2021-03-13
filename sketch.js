@@ -7,6 +7,7 @@ var box1, pig1;
 var backgroundImg;
 var platform;
 var platform1;
+var platform3;
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
